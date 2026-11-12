@@ -42,7 +42,7 @@ Dependencies: Streamlit, Pillow, NumPy, OpenCV (headless).
 
 ## Limitations
 
-- No method achieves 100% accuracy in distinguishing AI-generated images from photographs.
+- No method is perfect at distinguishing AI-generated images from photographs.
 - The prototype has been tested only on a small set of informal examples. It has not been evaluated on GenImage, CIFAKE, or other benchmark datasets.
 - Scores are heuristic and have not been calibrated.
 - Detection performance may degrade as generative models improve.
